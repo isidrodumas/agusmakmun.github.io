@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May mga bagay kang mai-experience sa buhay na walang positive side.?"
+title:  "May mga bagay kang mai-experience sa buhay na walang positive side"
 date:   2021-01-20 14:49:00 +0800
 categories: [stoicism, mental health, schizophrenia]
 ---
