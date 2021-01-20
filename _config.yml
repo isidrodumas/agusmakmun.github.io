@@ -2,7 +2,7 @@ title: Isidro Dumas
 description: Isidro Dumas writes
 author: Isidro Dumas
 github: https://github.com/isidrodumas
-about: Manunulat ng tungkol sa Stoicism, Self Development, at Mental Health
+about: Manunulat tungkol sa Stoicism, Self Development, at Mental Health
 disqus_shortname: isidrodumas
 google_analytics: UA-XXXXXXXX-Y
 
@@ -16,9 +16,9 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/isidrodumaswrites"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/isidrodumas"
     - icon: fa-linkedin
       link: "#"
     - icon: fa-stack-exchange
@@ -27,7 +27,7 @@ social:
       link: "https://github.com/isidrodumas"
 
 share:
-  twitter_username: twitter.com/@isidrodumas
+  twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
