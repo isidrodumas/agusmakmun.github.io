@@ -1,8 +1,9 @@
+---
 layout: post
 title:  "Wag mong jakolin ang lungkot mo"
 date:   2021-02-13 23:05:00 +0800
-categories: [mental health]
-
+categories: [mental health, depression]
+---
 Kapag nalulungkot tayo kailangan natin humanap ng paraan para makaalis tayo sa ganitong state of mind. Hindi natin uulit-ulitin ang scenerio sa isip natin na nagpapalungkot sa atin, o mag babasa o manonood ng malulungkot na bagay. Kapag ganito ang ginawa natin, parang jinajakol ng jinakol natin ang kalungkutan natin at nagcacause lang ito ng dagdag na lungkot.
 
 Ang mas mabuting gawin natin ay maghanap ng solusyon para maibsan ang lungkot. Makipagpag-usap sa kaibigan o malapit sa ating tao tungkol sa problema natin, kung wala kang kahit sino, subukan mong isulat ang problema mo. 
